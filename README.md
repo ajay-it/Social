@@ -1,3 +1,7 @@
+
+
+https://user-images.githubusercontent.com/74767563/234554085-0f159b26-a4d1-4dd7-b50c-a400142f42b6.mp4
+
 # Social
 "Social" is an Android app that provides news updates in a personalized feed. Users can register and log in to access the app's features. The app is designed to keep users informed on the latest news and events.
 
